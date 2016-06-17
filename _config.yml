@@ -1,0 +1,28 @@
+name: Giants Among Men
+favicon: null
+layout_spectrum: 0.22439555590972304
+typography_spectrum: 0.7760701095685363
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.45979355508461595
+  lightness: 0.28293028427287936
+  saturation: 0.3267577930819243
+  rhythmicContrast: 0.4111575479619205
+purpose: []
